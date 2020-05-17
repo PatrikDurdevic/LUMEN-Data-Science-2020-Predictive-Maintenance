@@ -1,0 +1,8 @@
+LUMEN 2020 - Single machine RNN models
+- https://tensorboard.dev/experiment/2A06r70WQQKTxqLIMTY6Qw/
+
+LUMEN 2020 - Transfer single machine RNN models
+- https://tensorboard.dev/experiment/TNUzVVl4RpepVRxfYsGGPQ/
+
+LUMEN 2020 - General machine RNN models
+- https://tensorboard.dev/experiment/1u1zPOcWQGGV2dXIPXo6xw/
